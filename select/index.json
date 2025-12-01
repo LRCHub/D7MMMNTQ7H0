@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "the WORLD",
+  "base_artist": "NIGHTMARE",
+  "createdAt": "2025-12-01T13:01:34.181512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If The World Was A Small Town",
+      "artist": "Lauren Alaina",
+      "has_synced": true,
+      "path": "select/01_If_The_World_Was_A_Small_Town_Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Wouldn't Have Missed It For The World",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/02_I_Wouldn't_Have_Missed_It_For_The_World_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Wouldn't Have Missed It For The World",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/03_I_Wouldn't_Have_Missed_It_For_The_World_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If the World Had a Front Porch",
+      "artist": "Tracy Lawrence",
+      "has_synced": false,
+      "path": "select/04_If_the_World_Had_a_Front_Porch_Tracy_Lawrence.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If the World Had a Front Porch (LP Version)",
+      "artist": "Tracy Lawrence",
+      "has_synced": false,
+      "path": "select/05_If_the_World_Had_a_Front_Porch_(LP_Version)_Tracy_Lawrence.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Make the World Go Away",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/06_Make_the_World_Go_Away_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mysteries of the World",
+      "artist": "Walker McGuire",
+      "has_synced": true,
+      "path": "select/07_Mysteries_of_the_World_Walker_McGuire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Setting the World On Fire",
+      "artist": "Kenny Chesney feat. P!nk",
+      "has_synced": true,
+      "path": "select/08_Setting_the_World_On_Fire_Kenny_Chesney_feat._P!nk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Setting the World On Fire",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/09_Setting_the_World_On_Fire_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sitting On Top of the World",
+      "artist": "Mississippi Sheiks",
+      "has_synced": false,
+      "path": "select/10_Sitting_On_Top_of_the_World_Mississippi_Sheiks.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stop the World (And Let Me Off)",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/11_Stop_the_World_(And_Let_Me_Off)_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stop the World (And Let Me Off)",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/12_Stop_the_World_(And_Let_Me_Off)_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Last Thing in the World",
+      "artist": "Joshua Hedley",
+      "has_synced": true,
+      "path": "select/13_The_Last_Thing_in_the_World_Joshua_Hedley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The World",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/14_The_World_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The World Ain't Yours and Mine",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/15_The_World_Ain't_Yours_and_Mine_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Turn the World Around",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/16_Turn_the_World_Around_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワールドイズマイン",
+      "artist": "supercell feat.初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ワールドイズマイン_supercell_feat.初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "World.Words.Lights.",
+      "artist": "supercell feat.初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_World.Words.Lights._supercell_feat.初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Worlds end",
+      "artist": "supercell feat.初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_Worlds_end_supercell_feat.初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "WORLD QUEST",
+      "artist": "supercell feat.初音ミク",
+      "has_synced": false,
+      "path": "select/pl_04_WORLD_QUEST_supercell_feat.初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "WORLD QUEST",
+      "artist": "supercell feat.初音ミク",
+      "has_synced": false,
+      "path": "select/pl_05_WORLD_QUEST_supercell_feat.初音ミク.txt"
+    }
+  ]
+}
